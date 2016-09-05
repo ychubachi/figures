@@ -1,7 +1,7 @@
 再利用できそうな図をここに置きます．
 gitのsubmoduleとして利用してください．
 
-```bash
+#+BEGIN_SRC bash
 git submodule add git@github.com:ychubachi/figures.git
 git submodule update
-```
+#+END_SRC
